@@ -23,24 +23,36 @@ This repository contains the source code for a comprehensive Blood Bank Applicat
 ## Features:
 
 Donor and patient registration: Users can register as donors or patients by providing their personal information and blood type.
+
 Blood request submission: Patients can submit blood requests, specifying their blood type and the required number of units.
+
 Notifications: Donors receive push notifications when a blood request is made in their vicinity, encouraging them to donate blood.
+
 Internal messaging: Donors and patients can communicate via a messaging system to coordinate blood donation and clarify any details.
+
 Map integration: The application displays the location of the blood bank on a map and provides directions to it.
+
 Reviews and feedback: Users can leave reviews and feedback about the services provided by blood banks.
+
 Donor profile management: Donors can manage their profile information and upload their blood reports for transparency.
 
 ## Tech Stack:
 
 Backend: Django, PostgreSQL
+
 Frontend: 
 
 ## Installation and Setup:
 
 Clone the repository.
+
 Set up the Django backend and PostgreSQL database according to the provided configurations.
+
 Install the necessary dependencies for the backend and frontend.
+
 Configure the backend and frontend to connect with each other.
+
 Run the application locally for testing and development purposes.
-Contributing:
+
+## Contributing:
 Contributions to the project are welcome! If you would like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
